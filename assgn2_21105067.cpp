@@ -8,7 +8,6 @@ using namespace std;
 
 
 class Node{
-    //Creating class objects
     public:
     int data;
     Node*next;
