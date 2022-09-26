@@ -43,7 +43,7 @@ int main(){
 /*
 With reference to this example of circular linked list,
 
-Line 26 i.e. while(temp->next!=head){temp=temp->next;} establishes that the traversing element/variable has reached the first element.
+Line 25 i.e. while(temp->next!=head){temp=temp->next;} establishes that the traversing element/variable has reached the first element.
 
 We Know that in circular linked list last node of linked list points to head of that linked list, hence we can check if any node points to head of linked list then that node is the end of circular linked list.
 */
