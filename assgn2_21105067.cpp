@@ -2,7 +2,7 @@
 
 //[Ans.1]--->
 
-//Lets take an example and create a basic circular linked list
+//Lets create a basic circular linked list
 #include <iostream>
 using namespace std;
 
