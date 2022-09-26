@@ -61,7 +61,7 @@ We Know that in circular linked list last node of linked list points to head of 
 (3). Maintaining the playlist in a music/video player and moving amongst the tracks/video in a particular order.
 (4). Multiple Player board game like online ludo game, the turn keeps coming in sequential order.
 (5). Fionacci Heap: Circular Linked List is also used in the implementation of advanced data structures such as a Fibonacci Heap.
-
+(6). Round robin scheduling
 */
 
 
